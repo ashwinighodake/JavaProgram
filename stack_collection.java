@@ -13,7 +13,8 @@ public class stack_collection
 		st.push(30);
 		st.push(40);
 		st.push(50);
-		//int i;
+		
+        //int i;
 		// Remove the contents from stack
 		Integer element = st.pop();
 		System.out.println("Poped element is "+element);
